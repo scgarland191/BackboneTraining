@@ -1,0 +1,35 @@
+#header {
+  background: #F00;
+}
+#header h1 {
+  color: rgba(0, 0, 0, 0.75);
+}
+#navigation {
+  background: #00F;
+  height: 100%;
+}
+#navigation h1 {
+  color: #FFF;
+}
+#dashboard {
+  background: #0F0;
+  height: 100%;
+}
+#dashboard h1 {
+  color: #000;
+}
+#home {
+  background: #FFF;
+  height: 100%;
+}
+#home h1 {
+  color: 000;
+}
+html,
+body {
+  height: 100%;
+}
+#body-wrapper,
+#content {
+  height: 100%;
+}
